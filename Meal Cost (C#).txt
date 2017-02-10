@@ -1,0 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+class Solution {
+    static void Main(String[] args) {
+       double mealCost, tipPercent, taxPercent, totalCost;
+        mealCost = Convert.ToDouble(Console.ReadLine());
+        tipPercent = Convert.ToDouble(Console.ReadLine());
+        taxPercent = Convert.ToDouble(Console.ReadLine());
+        tipPercent = mealCost*(tipPercent/100);
+        taxPercent = mealCost*(taxPercent/100);
+        totalCost = mealCost + tipPercent + taxPercent;
+        Console.WriteLine("The total meal cost is {0:0} dollars.",totalCost);
+    }
+}

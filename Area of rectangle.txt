@@ -1,0 +1,41 @@
+using System.IO;
+
+using System;
+
+
+class Program
+{
+
+        
+    static void Main()
+    {
+
+        int length, width, result;
+
+        Console.WriteLine("Calculates area of a rectangle");
+
+        Console.WriteLine("Input length: ");
+
+    length = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine("Input width: ");
+
+    width = Convert.ToInt32(Console.ReadLine());
+
+    result = area (length, width);
+
+    Console.WriteLine(result);
+
+    }
+    
+static public int area(int l, int w){
+
+        int area;
+
+        area = l*w;
+
+        return area;
+
+    }
+
+}

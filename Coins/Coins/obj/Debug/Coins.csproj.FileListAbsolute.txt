@@ -1,0 +1,6 @@
+C:\Users\christian\Documents\SharpDevelop Projects\Coins\Coins\obj\Debug\Coins.csprojResolveAssemblyReference.cache
+C:\Users\christian\Documents\SharpDevelop Projects\Coins\Coins\bin\Debug\Coins.exe.config
+C:\Users\christian\Documents\SharpDevelop Projects\Coins\Coins\bin\Debug\Coins.exe
+C:\Users\christian\Documents\SharpDevelop Projects\Coins\Coins\bin\Debug\Coins.pdb
+C:\Users\christian\Documents\SharpDevelop Projects\Coins\Coins\obj\Debug\Coins.exe
+C:\Users\christian\Documents\SharpDevelop Projects\Coins\Coins\obj\Debug\Coins.pdb

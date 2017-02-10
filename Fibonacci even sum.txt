@@ -1,0 +1,18 @@
+    using System;
+     
+    public class Test
+    {
+    	public static void Main()
+    	{
+    		int first = 0, second = 1, sum = 0, fibonacci;
+    		while(sum<4000000){
+    			fibonacci = first + second;
+    			first = second;
+    			second = fibonacci;
+    			if(fibonacci%2 == 0){
+    				sum += fibonacci;
+    				Console.WriteLine(sum);
+    			}
+    		}
+    	}
+    }

@@ -1,0 +1,15 @@
+using System;
+
+public class Test
+{
+	public static void Main()
+	{
+		// Multiples of 3 or 5 below 1000
+		int sum = 0, i;
+		for(i = 0; i < 1000; i++){
+			if(i%3 == 0 || i%5 == 0)
+			sum = i + sum;
+		}
+		Console.WriteLine(sum);
+	}
+}

@@ -1,0 +1,6 @@
+C:\Users\christian\Documents\SharpDevelop Projects\SumPrimeNumbers\SumPrimeNumbers\obj\Debug\SumPrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\christian\Documents\SharpDevelop Projects\SumPrimeNumbers\SumPrimeNumbers\bin\Debug\SumPrimeNumbers.exe.config
+C:\Users\christian\Documents\SharpDevelop Projects\SumPrimeNumbers\SumPrimeNumbers\bin\Debug\SumPrimeNumbers.exe
+C:\Users\christian\Documents\SharpDevelop Projects\SumPrimeNumbers\SumPrimeNumbers\bin\Debug\SumPrimeNumbers.pdb
+C:\Users\christian\Documents\SharpDevelop Projects\SumPrimeNumbers\SumPrimeNumbers\obj\Debug\SumPrimeNumbers.exe
+C:\Users\christian\Documents\SharpDevelop Projects\SumPrimeNumbers\SumPrimeNumbers\obj\Debug\SumPrimeNumbers.pdb
